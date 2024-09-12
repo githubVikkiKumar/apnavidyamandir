@@ -2,4 +2,4 @@
 this is my first git repository
 
 <br>
-Author=vishwajeet kumar
+Author=vishwajeet (vikki)
